@@ -1,0 +1,13 @@
+
+U
+squid:S106";Replace this usage of System.out or System.err by a logger.(æ©È68ßÐÏÿ¾+
+Usquid:S1118":Add a private constructor to hide the implicit public one.(£í°68ßÐÏÿ¾+
+1squid:S1220""Move this file to a named package.
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÂìÓÿ¾+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(Ó°¾ô8ßÐÏÿ¾+
+Asquid:S1166"%Either log or rethrow this exception.(ï­£Ä8ßÐÏÿ¾+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(Ó˜Ý˜8ßÐÏÿ¾+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(¶É­•8ßÐÏÿ¾+

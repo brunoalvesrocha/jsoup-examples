@@ -1,0 +1,6 @@
+
+1squid:S1220""Move this file to a named package.
+wsquid:S1450"VRemove the "matcher" field and declare it as a local variable in the relevant methods.(™ç¯€øÿÿÿÿ8ñ¥Ùÿ¾+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(«’ÌÖ8ñ¥Ùÿ¾+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(ìùÓ8ñ¥Ùÿ¾+
